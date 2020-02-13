@@ -1,0 +1,18 @@
+
+		body{
+			background-image:url("/home/Sem6B10/Desktop/wallp.jpeg");
+			background-repeat:repeat;
+			background-attachment:scroll;
+		}
+		h1{
+			color:maroon;
+			margin-left:50px;
+		}
+		h2{
+			color:red;
+			margin-left:30px;
+		}
+		p{
+			color:blue;
+		}
+		
