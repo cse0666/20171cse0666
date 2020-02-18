@@ -1,0 +1,39 @@
+
+		body{
+			background-image:url("/home/Sem6B10/Desktop/index4.jpeg");
+			background-repeat:repeat;
+			background-attachment:fixed;
+		}
+		h1{
+			color:maroon;
+			margin-left:50px;
+		}
+		h2{
+			color:red;
+			margin-left:30px;
+		}
+		p.normal{
+			color:blue;
+			font-style:italic;
+			font-family:cursive;
+			font-size:20px;
+			direction:rtl;
+			letter-spacing:5px;
+			word-spacing:5px;
+			text-indent:1cm;
+		}
+		p.special{
+			color:red;
+			font-weight:800;
+			font-family:serif;
+			font-size:30px;
+			text-align:center;
+			text-decoration:blink;
+			text-transform:lowercase;
+			text-shadow:6px 6px 6px black;
+		}
+		img:hover{
+			border:5px dashed red;
+			height:150px
+		}
+		
