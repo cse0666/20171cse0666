@@ -34,6 +34,30 @@
 		}
 		img:hover{
 			border:5px dashed red;
-			height:150px
+			height:150px;
+			opacity:0.8;
+		}
+		p::first-line{
+			color:#ff0000;
+			font-size:xx-large;
+		}
+		::selection{
+			color:red;
+			background:yellow;
+		}
+		div.a{
+			background-image:url("/home/Sem6B10/Desktop/flower.jpeg");
+			padding:100px;
+			border:5px solid white;
+			
+		}
+		div.b{
+			background-color:white;
+			padding:60px;
+			color:black;
+			opacity:0.5;
+		}
+		#grad{
+			background-image:radial-gradient(red,yellow 50%,green 20%);
 		}
 		
