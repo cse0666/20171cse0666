@@ -1,0 +1,69 @@
+<html>
+<head>
+	
+<link rel="stylesheet"type="text/css" href="mystle.css"/>
+</head>
+<body>
+<h1 id="id1">First heading</h1>
+<h2>second heading</h2>
+<img src="/home/Sem6B10/0665/CSS/index1.jpeg"><br/>
+<div>
+<center>
+
+<p><big>SIVA is a Student of Presidency university</big></p></center>
+
+<p>paragraph of second heading</p>
+</div>
+
+<p class="four">Siva sai kumar</p>
+<ul type="disk">
+<li>siva</li>
+<li>sirish</li>
+<li>raja</li></ul>
+
+<p>
+India Is Short of 0.5 Million Policemen But 47,000 Protect VIPs
+January 8, 2013
+Recent Posts
+
+   <span class="a"> ‘We Will Not Accept Any Decision That Undermines The State’s Fiscal Domain’
+    Renewable Energy Sector Employed 432,000 Indians In 2017, Up 12% From 2016
+    Shoddy Sanitary Napkins Impact Menstrual Hygiene Drive
+    In Kashmir Valley, 74% More People Certified Disabled During PDP-BJP Rule
+    India’s Richest Young Women Fear Public Transport Most; Poorest Fear Cinema Halls</span>
+
+Search in Archive
+Select a date
+Select a category
+Search with Google
+Tweets about "IndiaSpend"
+Failed to display MailChimp Form
+Views
+26063
+
+ 
+<span class="b">Highlights
+
+
+* States spent around Rs 2 lakh crore over the last five years for policing but still has a shortage of 0.5 million policemen
+
+* Around 47,000 police personnel deployed to protect 14,842 special persons
+
+*  UP, Maharashtra and Gujarat have the highest difference between sanctioned policemen and actual policemen on duty</span>
+
+ 
+
+<span class="c">It’s a large country and thus must have lots of important people. But 14,842 VIPs might be a surprise, or maybe not.  Considering that 47,000 policemen are deployed only to keep these VIPs safe and happy when there are 500,000 policemen short might seem a little stretched.</span>
+.</p>
+ 
+<a class="one" href="https://en-gb.facebook.com/login/">facebook login page</a>
+
+<a class="two" href="https://en-gb.facebook.com/login/">google</a>
+
+<a class="three" href="https://en-gb.facebook.com/login/">whatsapp</a>
+
+<a class="four" href="https://en-gb.facebook.com/login/">nothing</a>
+
+
+</body>
+</html>
